@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.MatchFullName", "31.RegexLab\1.MatchFullName.csproj", "{8F98C63D-D2D7-4AB4-BD06-71C2E071A1CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.MatchPhoneNumber", "2.MatchPhoneNumber\2.MatchPhoneNumber.csproj", "{A3BFE6FE-764F-414A-9062-EBCE262DF27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MatchDates", "3.MatchDates\3.MatchDates.csproj", "{7809A8B3-6A7B-44CC-AB50-3DB5A2FAB91E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FurnitureEx", "01.FurnitureEX\01.FurnitureEx.csproj", "{E50D2D94-F96D-49BC-AF57-83FC55FBA4A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RaceEx", "02.RaceEx\02.RaceEx.csproj", "{19274D4D-77AE-41D0-8F44-8120BA8E9518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.StarEnigmaEx", "04.StarEnigmaEx\04.StarEnigmaEx.csproj", "{86961AB0-EAA6-4ED1-BE21-3E53BB9AC5EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SoftUniBarIncomeEx", "03.SoftUniBarIncomeEx\03.SoftUniBarIncomeEx.csproj", "{0E185F32-CF69-4D1F-9325-77D22BD3A341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F98C63D-D2D7-4AB4-BD06-71C2E071A1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F98C63D-D2D7-4AB4-BD06-71C2E071A1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F98C63D-D2D7-4AB4-BD06-71C2E071A1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F98C63D-D2D7-4AB4-BD06-71C2E071A1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BFE6FE-764F-414A-9062-EBCE262DF27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BFE6FE-764F-414A-9062-EBCE262DF27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BFE6FE-764F-414A-9062-EBCE262DF27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BFE6FE-764F-414A-9062-EBCE262DF27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7809A8B3-6A7B-44CC-AB50-3DB5A2FAB91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7809A8B3-6A7B-44CC-AB50-3DB5A2FAB91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7809A8B3-6A7B-44CC-AB50-3DB5A2FAB91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7809A8B3-6A7B-44CC-AB50-3DB5A2FAB91E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E50D2D94-F96D-49BC-AF57-83FC55FBA4A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E50D2D94-F96D-49BC-AF57-83FC55FBA4A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E50D2D94-F96D-49BC-AF57-83FC55FBA4A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E50D2D94-F96D-49BC-AF57-83FC55FBA4A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19274D4D-77AE-41D0-8F44-8120BA8E9518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19274D4D-77AE-41D0-8F44-8120BA8E9518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19274D4D-77AE-41D0-8F44-8120BA8E9518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19274D4D-77AE-41D0-8F44-8120BA8E9518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86961AB0-EAA6-4ED1-BE21-3E53BB9AC5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86961AB0-EAA6-4ED1-BE21-3E53BB9AC5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86961AB0-EAA6-4ED1-BE21-3E53BB9AC5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86961AB0-EAA6-4ED1-BE21-3E53BB9AC5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E185F32-CF69-4D1F-9325-77D22BD3A341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E185F32-CF69-4D1F-9325-77D22BD3A341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E185F32-CF69-4D1F-9325-77D22BD3A341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E185F32-CF69-4D1F-9325-77D22BD3A341}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95010374-0983-4323-92A2-2C0EBBD90350}
+	EndGlobalSection
+EndGlobal
