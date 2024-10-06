@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "blNWKNzUl7M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jivko\\source\\Programming Fundamentals with C#\\34.ExamPreprationAll\\2.FancyBarcodesLab\\2.FancyBarcodesLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jivko\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\jivko\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\jivko\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\jivko\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
